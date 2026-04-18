@@ -5,7 +5,7 @@
 Если вы уже установили neoforge на тлаунчер, переходите к установке сборки, если нет следуйте инстркуции:
 
 ## Шаг 1
-<img width="2254" height="1310" alt="image" src="https://github.com/user-attachments/assets/3444c042-a3bb-49c7-8864-29d4eb3be470" />
+<img width="2234" height="1239" alt="image" src="https://github.com/user-attachments/assets/896735b9-3eee-449e-90a5-8b3e634ca361" />
 
 ## Шаг 2
 <img width="2254" height="1392" alt="neo_1" src="https://github.com/user-attachments/assets/0d6ba573-ce52-4dba-83e5-c6aa5992c4e1" />
