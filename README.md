@@ -22,7 +22,7 @@
 
 ## Установка сборки
 ## Шаг 1
-Перейдите в [релизы](https://github.com/s-baiaman/nyxoria/releases/tag/new_mod) и скачайте nyxoria_modpack.zip
+Перейдите в [релизы](https://github.com/s-baiaman/nyxoria/releases/tag/mod_new) и скачайте nyxoria_modpack.zip
 
 ## Шаг 2
 В ТЛаунчере нажмите сюда 
