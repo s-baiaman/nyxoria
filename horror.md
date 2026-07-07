@@ -1,6 +1,6 @@
 # ГАЙД
 
-Скачать - https://github.com/s-baiaman/nyxoria/archive/refs/tags/horror.zip
+Скачать - https://github.com/s-baiaman/nyxoria/releases/tag/horror (.zip)
 
 Зайдите в тлаунчер настройте чтоб был
 * Forge (NO OPTIFINE!!!)
